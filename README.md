@@ -1,5 +1,5 @@
 # Coursera-WebDev-Course
-by John Hopkin University
+by John Hopkin University,
 Taught by:  Yaakov Chaikin, Adjunct Professor, Graduate Computer Science
 
 - HTML, CSS, and Javascript for Web Developers 
